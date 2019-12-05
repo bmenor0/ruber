@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ruber/static/css/main.ff9c5490.chunk.css",
+    "main.js": "/ruber/static/js/main.81ba3740.chunk.js",
+    "main.js.map": "/ruber/static/js/main.81ba3740.chunk.js.map",
+    "runtime-main.js": "/ruber/static/js/runtime-main.b040701f.js",
+    "runtime-main.js.map": "/ruber/static/js/runtime-main.b040701f.js.map",
+    "static/js/2.14e8dcaa.chunk.js": "/ruber/static/js/2.14e8dcaa.chunk.js",
+    "static/js/2.14e8dcaa.chunk.js.map": "/ruber/static/js/2.14e8dcaa.chunk.js.map",
+    "index.html": "/ruber/index.html",
+    "precache-manifest.0fdc0ddf75d0e6d73a7e8075bbbaa3c1.js": "/ruber/precache-manifest.0fdc0ddf75d0e6d73a7e8075bbbaa3c1.js",
+    "service-worker.js": "/ruber/service-worker.js",
+    "static/css/main.ff9c5490.chunk.css.map": "/ruber/static/css/main.ff9c5490.chunk.css.map",
+    "static/js/2.14e8dcaa.chunk.js.LICENSE": "/ruber/static/js/2.14e8dcaa.chunk.js.LICENSE",
+    "static/media/RSymbol.png": "/ruber/static/media/RSymbol.b6f3e470.png",
+    "static/media/edit-ride.png": "/ruber/static/media/edit-ride.00bdc33d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b040701f.js",
+    "static/js/2.14e8dcaa.chunk.js",
+    "static/css/main.ff9c5490.chunk.css",
+    "static/js/main.81ba3740.chunk.js"
+  ]
+}
